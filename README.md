@@ -1,6 +1,7 @@
 # Face Expression Recognizer
 
 # Problem Statement
+Facial expression recognition is a technology that detects emotions in human faces using biometric markers. It detects the 6 basic universal expressions; Happiness, Sadness, Anger, Surprise, Fear, and Disgust. Conveying nonverbal communication cues, Facial expressions play a powerful role in interpersonal relations, therefore, complementing speech by helping the listener to interpret the intended meaning of spoken words. Facial expression recognition is benificial to companies, as it helps them conduct market research, automatically measuring consumers' moment-by-moment facial expressions, making it easy to aggregate the results, resulting in better understanding of their needs. Facial expresion recognition can also be used in the video game testing phase, where developers gain insights and draw conclusions about the emotions experienced during game play and incorporate that feedback in the making of the final product. Basically, facial expression recognition is etremely helpful in behavioral testing, where understanding the genuine feedback of your customer is essential.
 
 # Model
 
